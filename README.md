@@ -1,6 +1,6 @@
 # Truelive.ai
 
-**Truelive.ai** is an innovative platform that leverages AI and machine learning to verify the authenticity of multimedia content in real-time. The project includes tools for **verifying video, audio, and written articles**, using advanced models like **Automatic Speech Recognition (ASR)** and claim detection. With features like **news summarization** and real-time decision-making, Truelive.ai empowers users to assess the credibility of news and media content quickly and efficiently, combating misinformation in the digital world
+**Truelive.ai** is an innovative platform that leverages AI and machine learning to verify the authenticity of multimedia content in real-time. The project includes tools for **verifying video, audio, and written articles**, using advanced models like **Automatic Speech Recognition (ASR)** and claim detection. With features like **news summarization** and real-time decision-making, Truelive.ai empowers users to assess the credibility of news and media content quickly and efficiently, combating misinformation in the digital world.
 <br>
 <br>
 
